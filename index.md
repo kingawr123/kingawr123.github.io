@@ -1,37 +1,60 @@
-## Kinga Wrona
+# Kinga Wrona
 
 <img border-radius="50%" src="./imgs/img.jpg" width=300> 
 
-Hi! I'm a 19 years old student and here are some of my the most interesting projects!
+## Hi! I'm a 19 years old student and here are some of my the most interesting projects!
 
-### Markdown
+### Web - 'Przekroje figur'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[link to the code](https://github.com/kingawr123/web)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+import * as THREE from 'three';
+import { Mesh } from 'three';
 
-- Bulleted
-- List
+//This is exaple of the function that with help of Three.js, renders a cube
 
-1. Numbered
-2. List
+export function addBox() {
 
-**Bold** and _Italic_ and `Code` text
+  const material = new THREE.MeshBasicMaterial({
+    color: 0xFF9900,
+    wireframe: true,
+  });
 
-[Link](url) and ![Image](src)
+  const box = new THREE.Mesh(new THREE.BoxGeometry(4, 4, 4), material);
+  box.castShadow = true;
+
+  return box;
+}
+
+//Like before, but that one is rendering cone
+
+export function addCone(){
+  const material = new THREE.MeshPhongMaterial({
+    color: 0xFF9900,
+    shininess: 100,
+    wireframe: true,
+  });
+
+  var geo = new THREE.ConeGeometry(2,4.5,50);
+
+  var cone = new THREE.Mesh(geo, material);
+  cone.position.set(2, 2.5, 2);
+  cone.castShadow = true;
+
+  cone.rotation.y = 70;
+
+  return cone
+}
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<!-- ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kingawr123/kingawr123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kingawr123/kingawr123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
-### Support or Contact
+### Github 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here is link to my other projects! --> [github](https://github.com/kingawr123)

@@ -13,7 +13,7 @@
 import * as THREE from 'three';
 import { Mesh } from 'three';
 
-//This is exaple of the function that with help of Three.js, renders a cube
+//This is exaple of a function that, with help of Three.js, renders a cube
 
 export function addBox() {
 
@@ -28,7 +28,7 @@ export function addBox() {
   return box;
 }
 
-//Like before, but that one is rendering cone
+//Like before, but this one is rendering a cone
 
 export function addCone(){
   const material = new THREE.MeshPhongMaterial({

@@ -2,9 +2,9 @@
 <p>
     <img aligne="right"  src="./imgs/img.jpg" width=300> 
 </p>
-## Hi! I'm a 19 years old student and here are some of my the most interesting projects!
+### Hi! I'm a 19 years old student and here are some of my the most interesting projects!
 
-### Web - 'Przekroje figur'
+## Web - Przekroje figur
 
 [link to the code](https://github.com/kingawr123/web)
 
@@ -55,6 +55,6 @@ export function addCone(){
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kingawr123/kingawr123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
-### Github 
+## Github 
 
 Here is link to my other projects! --> [github](https://github.com/kingawr123)

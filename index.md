@@ -1,8 +1,8 @@
-# Hi! My name is Kinga Wrona and this is my homepage
+# Kinga Wrona
 <p>
     <img aligne="right"  src="./imgs/img.jpg" width=300> 
 </p>
-### I'm a 19 years old student and here are some of my the most interesting projects! 
+### Hi! I'm a 19 years old student and here are some of my the most interesting projects! 
 
 ## Web - Przekroje figur
 

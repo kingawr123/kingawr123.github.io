@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Kinga Wrona
 
-You can use the [editor on GitHub](https://github.com/kingawr123/kingawr123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img border-radius="50%" src="./imgs/img.jpg" width=300> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I'm a 19 years old student and here are some of my the most interesting projects!
 
 ### Markdown
 

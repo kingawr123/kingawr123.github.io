@@ -7,15 +7,17 @@
 
 ## NEW PROJECT - 2048 game
 
-
-
 <p>
-    <img aligne="center"  src="./imgs/start.png" width=300> 
+    <img aligne="center"  src="./imgs/start.png" width=600> 
 </p>
 
 [Kaja](https://narzekajka.github.io/)
 [Kuba](https://jakubbanach.github.io/)
 [Milena](https://milsmo.github.io/)
+
+<p>
+    <img aligne="center"  src="./imgs/end.png" width=400> 
+</p>
 
 ## Web - Przekroje figur
 

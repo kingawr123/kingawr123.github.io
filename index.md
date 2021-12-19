@@ -11,9 +11,8 @@
     <img aligne="center"  src="./imgs/start.png" width=600> 
 </p>
 
-[Kaja](https://narzekajka.github.io/)
-[Kuba](https://jakubbanach.github.io/)
-[Milena](https://milsmo.github.io/)
+Together with [jakubbanach](https://jakubbanach.github.io), [MilSmo](https://milsmo.github.io) and [NarzeKajka](https://narzekajka.github.io) we created an ‘alpha’ version of the popular game called 2048. This game is some kind of a kludge. You don’t have to worry about any special equipment or hardware since everything happens in the computer console.  In the future, as we become more advanced programmers, we are planning to improve the interface and correct errors. We encourage you to give our game a try! Don’t forget to share your opinion in the [survey](https://forms.gle/8LsUe4iHzi6yNTHv7). Thanks a lot! 
+
 
 <p>
     <img aligne="center"  src="./imgs/end.png" width=200> 

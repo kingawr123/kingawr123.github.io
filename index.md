@@ -16,7 +16,7 @@
 [Milena](https://milsmo.github.io/)
 
 <p>
-    <img aligne="center"  src="./imgs/end.png" width=400> 
+    <img aligne="center"  src="./imgs/end.png" width=200> 
 </p>
 
 ## Web - Przekroje figur

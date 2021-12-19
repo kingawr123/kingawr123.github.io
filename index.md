@@ -4,6 +4,19 @@
 </p>
 ### Hi! I'm a 19 years old student and here are some of my the most interesting projects! 
 
+
+## NEW PROJECT - 2048 game
+
+
+
+<p>
+    <img aligne="center"  src="./imgs/start.png" width=300> 
+</p>
+
+[Kaja](https://narzekajka.github.io/)
+[Kuba](https://jakubbanach.github.io/)
+[Milena](https://milsmo.github.io/)
+
 ## Web - Przekroje figur
 
 [link to the code](https://github.com/kingawr123/web)
